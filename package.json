@@ -6,9 +6,17 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "viktor",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorCodes/tech-quotes-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/viktorCodes/tech-quotes-api/issues"
+  },
+  "homepage": "https://github.com/viktorCodes/tech-quotes-api#readme"
 }
